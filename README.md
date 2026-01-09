@@ -7,12 +7,14 @@
 
 ### 🛠 Tech Stack & Tools
 
+**Languages, Frameworks & Databases:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,prisma,nodejs,java,js,python,php,html,css&perline=11" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,prisma,nodejs,java,js,python,php,html,css,sqlite,mongodb,supabase,postgres&perline=8" alt="Tech Stack" />
 </p>
 
+**System & Development Tools:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea&perline=2" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,idea&perline=5" alt="Tools" />
 </p>
 
 ---
